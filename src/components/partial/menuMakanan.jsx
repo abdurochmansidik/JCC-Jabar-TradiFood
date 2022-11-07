@@ -62,7 +62,7 @@ const MenuMakanan = () => {
                             {menuMakanan.map((menu) => (
                             <div key={menu.id}>
                                 <div className="col">
-                                    <div className="card bg-light" style={{height: "23rem"}}>
+                                    <div className="card bg-light" style={{height: "25rem"}}>
                                         <img src={menu.imageUrl} className="card-img-top" alt="..."/>
                                         <div className="card-body">
                                             <h5 className="card-title text-center fw-semibold" style={{color: "#101010", fontSize: "16px"}}><Link to={`/menu/${menu.id}`} style={{textDecoration: "none"}}>{menu.title} </Link> </h5>

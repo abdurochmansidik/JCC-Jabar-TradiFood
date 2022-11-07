@@ -27,7 +27,7 @@ const ProdukMakanan = () => {
                         <div className="card h-100 bg-light">
                         <img src={ProdukTerbaru1} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <a href="./detail-produk-non-login.html" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Gurame Goreng Kremes</a>
+                            <a href="/" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Gurame Goreng Kremes</a>
                         </div>
                         </div>
                     </div>
@@ -36,7 +36,7 @@ const ProdukMakanan = () => {
                         <div className="card h-100 bg-light">
                         <img src={ProdukTerbaru2} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <a href="./detail-produk-non-login.html" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Gurame Goreng WarSun</a>
+                            <a href="/" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Gurame Goreng WarSun</a>
                         </div>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ const ProdukMakanan = () => {
                         <div className="card h-100 bg-light">
                         <img src={ProdukTerbaru3} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <a href="./detail-produk-non-login.html" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Gurame Saos Mangga</a>
+                            <a href="/" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Gurame Saos Mangga</a>
                         </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ const ProdukMakanan = () => {
                         <div className="card h-100 bg-light">
                         <img src={ProdukTerbaru4} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <a href="./detail-produk-non-login.html" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Gurame Saos Mangga</a>
+                            <a href="/" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Gurame Saos Mangga</a>
                         </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@ const ProdukMakanan = () => {
                         <div className="card h-100  bg-light">
                         <img src={RekomendasiMakanan1} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <a href="./detail-produk-non-login.html" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Sop Gurame Spesial WarSun</a>
+                            <a href="/" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Sop Gurame Spesial WarSun</a>
                         </div>
                         </div>
                     </div>
@@ -85,7 +85,7 @@ const ProdukMakanan = () => {
                         <div className="card h-100 bg-light">
                         <img src={RekomendasiMakanan2} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <a href="./detail-produk-non-login.html" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Ayam Kalasan WarSun</a>
+                            <a href="/" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Ayam Kalasan WarSun</a>
                         </div>
                         </div>
                     </div>
@@ -94,7 +94,7 @@ const ProdukMakanan = () => {
                         <div className="card h-100  bg-light">
                         <img src={RekomendasiMakanan3} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <a href="./detail-produk-non-login.html" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Ayam Kremes</a>
+                            <a href="/" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Ayam Kremes</a>
                         </div>
                         </div>
                     </div>
@@ -103,7 +103,7 @@ const ProdukMakanan = () => {
                         <div className="card h-100  bg-light">
                         <img src={RekomendasiMakanan4} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <a href="./detail-produk-non-login.html" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Sate Ayam</a>
+                            <a href="/" className="card-text fw-semibold text-decoration-none" style={{color:"#101010"}}>Sate Ayam</a>
                         </div>
                         </div>
                     </div>

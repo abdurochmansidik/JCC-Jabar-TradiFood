@@ -75,7 +75,7 @@ let dataMenu = [
         id: "10",
         imageUrl: "https://res.cloudinary.com/codingers-enegx/image/upload/v1667748992/jabar%20tradifood/menu%20makanan/tumis-pakis-kalimantan.png",
         title: "Tumis Pakis Kalimantan",
-        description: "Dra terpisah berdasarkan tanggung jawabnya masing-masing.",
+        description: "Daun pakis segar yang dimasak dengan racikan bumbu balacan spesial WarSun.",
         harga: "30.000",
         label: "Tumis",
       },
