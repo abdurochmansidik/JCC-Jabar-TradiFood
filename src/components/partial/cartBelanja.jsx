@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const CartBelanja = () => {
     return (
         <div>
@@ -44,7 +46,7 @@ const CartBelanja = () => {
                         </table>
                     </div>
                     <div className="col-md-12 d-flex justify-content-end">
-                        <button type="button" className="btn btn-primary" style={{backgroundColor: "#D3AC48", border: "#D3AC48"}}>Detail Tagihan</button>
+                        <Link type="button" to={"carttagihan"} className="btn btn-primary" style={{backgroundColor: "#D3AC48", border: "#D3AC48"}}>Detail Tagihan</Link>
                     </div>
                     </div>
                 </div>
