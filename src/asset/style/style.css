@@ -1,0 +1,18 @@
+body {
+    background: url('../img/background/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: #101010;
+    font-size: 16px;
+  }
+
+  .nav-link {
+    color: #101010;
+  }
+  .nav-link.active {
+    color: #D3AC48 !important;
+  }
+  .nav-link:hover{
+    color: #D3AC48;
+  }
